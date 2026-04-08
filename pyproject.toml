@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "suminagashi"
+version = "1.0.0"
+description = "Physics-based Japanese ink marbling simulator"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.21.0,<2.0",
+    "PyQt5>=5.15.0",
+]
+
+[project.scripts]
+suminagashi = "suminagashi.app:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
