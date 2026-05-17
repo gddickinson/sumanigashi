@@ -107,3 +107,7 @@ Sakura, Forest, Twilight, Earth Tones, Fire.
 - Jaffer, *Dropping Paint*, people.csail.mit.edu/jaffer/Marbling/
 - Ghassaei, *Digital Marbling*, blog.amandaghassaei.com
 - Sun et al., *Hydrodynamics of marbling art*, Phys Rev Fluids 2024
+
+
+---
+*Built with AI assistance from [Claude (Anthropic)](https://claude.com/).*
